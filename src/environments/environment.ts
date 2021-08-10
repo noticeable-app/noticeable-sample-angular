@@ -3,6 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  noticeable: {
+    // TODO: replace with your own values
+    iconWidgetId: 'RLBKpIlRIoZKqJTcJ5HL'
+  },
   production: false
 };
 
